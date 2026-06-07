@@ -6,7 +6,7 @@
 	"cost": 106,
 	"requiredTech": "Civil Service",
 	"uniques": ["Founds a new city <by consuming this unit>", "Excess Food converted to Production when under construction",
-			"Requires at least [2] population", "Gain a free [Monument] [in this city]", "Gain a free [Shrine] [in this city]"],
+			"Requires at least [2] population", "Gain a free [Monument] [in this city] <by consuming this unit>", "Gain a free [Shrine] [in this city] <by consuming this unit>"],
 	"hurryCostModifier": 20
 	}
 ]
