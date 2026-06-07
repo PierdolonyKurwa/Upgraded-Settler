@@ -1,17 +1,12 @@
 [
 	{
-		"name": "Phasers",
-		"unitType": "Ranged",
-		"uniqueTo": "Aliens",
-		"replaces": "Machine Gun",
-		"movement": 2,
-		"strength": 90,
-		"rangedStrength": 36,
-		"range": 2,
-		"cost": 500,
-		"requiredTech": "Ballistics",
-		"requiredResource": "Uranium",
-		"promotions": ["Logistics","Accuracy I"],
-		"attackSound": "phasers"
+	"name": "Medevial Settler",
+	"unitType": "Civilian",
+	"movement": 2,
+	"cost": 106,
+	"requiredTech": "Civil Service",
+	"uniques": ["Founds a new city <by consuming this unit>", "Excess Food converted to Production when under construction",
+			"Requires at least [2] population", "Gain a free [Monument] [in this city]", "Gain a free [Shrine] [in this city]"],
+	"hurryCostModifier": 20
 	}
 ]
