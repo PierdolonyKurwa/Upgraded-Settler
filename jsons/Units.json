@@ -19,7 +19,8 @@
 	"cost": 106,
 	"requiredTech": "Civil Service",
 	"uniques": ["Founds a new city <by consuming this unit>", "Excess Food converted to Production when under construction",
-			"Requires at least [2] population", "Gain a free [Monument] [in this city] <by consuming this unit>", "Gain a free [Shrine] [in this city] <by consuming this unit>"],
+			"Requires at least [2] population"],
+	"settlerBuildings": ["Shrine","Monument"],	
 	"hurryCostModifier": 20,
 	"upgradesTo": "Renaissance Settler",
 	"obsoleteTech": "Astronomy"
@@ -32,7 +33,8 @@
 	"cost": 106,
 	"requiredTech": "Astronomy",
 	"uniques": ["Founds a new city <by consuming this unit>", "Excess Food converted to Production when under construction",
-			"Requires at least [2] population", "Gain a free [Monument] [in this city] <by consuming this unit>", "Gain a free [Shrine] [in this city] <by consuming this unit>", "Gain a free [Granary] [in this city] <by consuming this unit>"],
+			"Requires at least [2] population"],
+	"settlerBuildings": ["Shrine","Monument","Granary"],	
 	"hurryCostModifier": 20,
 	"upgradesTo": "Industrial Settler",
 	"obsoleteTech": "Industrialization"
@@ -44,7 +46,8 @@
 	"cost": 106,
 	"requiredTech": "Industrialization",
 	"uniques": ["Founds a new city <by consuming this unit>", "Excess Food converted to Production when under construction",
-			"Requires at least [2] population", "Gain a free [Monument] [in this city] <by consuming this unit>", "Gain a free [Shrine] [in this city] <by consuming this unit>", "Gain a free [Granary] [in this city] <by consuming this unit>", "Gain a free [Market] [in this city] <by consuming this unit>"],
+			"Requires at least [2] population"],
+	"settlerBuildings": ["Shrine","Monument","Granary","Market"],	
 	"hurryCostModifier": 20,
 	}
 ]
