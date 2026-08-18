@@ -18,7 +18,7 @@
 	"movement": 2,
 	"cost": 106,
 	"requiredTech": "Civil Service",
-	"uniques": ["Founds a new city <by consuming this unit>", "Excess Food converted to Production when under construction", "Requires at least [2] population", "Gain a free [Monument] [in this city] <by consuming this unit>", "Gain a free [Shrine] [in this city] <by consuming this unit>"],
+	"uniques": ["Founds a new city <by consuming this unit>", "Excess Food converted to Production when under construction", "Requires at least [2] population", "Gain a free [Monument] [in this city] <upon founding a city>", "Gain a free [Shrine] [in this city] <upon founding a city>"],
 	"hurryCostModifier": 20,
 	"upgradesTo": "Renaissance Settler",
 	"obsoleteTech": "Astronomy"
@@ -30,7 +30,7 @@
 	"movement": 2,
 	"cost": 106,
 	"requiredTech": "Astronomy",
-	"uniques": ["Founds a new city <by consuming this unit>", "Excess Food converted to Production when under construction", "Requires at least [2] population",  "Gain a free [Monument] [in this city] <by consuming this unit>", "Gain a free [Shrine] [in this city] <by consuming this unit>", "Gain a free [Granary] [in this city] <by consuming this unit>"],
+	"uniques": ["Founds a new city <by consuming this unit>", "Excess Food converted to Production when under construction", "Requires at least [2] population",  "Gain a free [Monument] [in this city] <upon founding a city>", "Gain a free [Shrine] [in this city] <upon founding a city>", "Gain a free [Granary] [in this city] <upon founding a city>"],
 	"hurryCostModifier": 20,
 	"upgradesTo": "Industrial Settler",
 	"obsoleteTech": "Industrialization"
@@ -41,7 +41,7 @@
 	"movement": 2,
 	"cost": 106,
 	"requiredTech": "Industrialization",
-	"uniques": ["Founds a new city <by consuming this unit>", "Excess Food converted to Production when under construction", "Requires at least [2] population",  "Gain a free [Monument] [in this city] <by consuming this unit>", "Gain a free [Shrine] [in this city] <by consuming this unit>", "Gain a free [Granary] [in this city] <by consuming this unit>", "Gain a free [Market] [in this city] <by consuming this unit>"],
+	"uniques": ["Founds a new city <by consuming this unit>", "Excess Food converted to Production when under construction", "Requires at least [2] population",  "Gain a free [Monument] [in this city] <upon founding a city>", "Gain a free [Shrine] [in this city] <upon founding a city>", "Gain a free [Granary] [in this city] <upon founding a city>", "Gain a free [Market] [in this city] <upon founding a city>"],
 	"hurryCostModifier": 20,
 	}
 ]
